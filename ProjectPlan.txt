@@ -1,0 +1,17 @@
+Dogndice
+
+threejs.org/docs
+dog.ceo/dog-api/documentation
+https://dog.ceo/api/breeds/list/all
+https://dog.ceo/api/breeds/image/random
+
+physics: Ammo.js
+
+
+npm init = package.json
+npm install node 
+npm install nodemon -d      //dev dependency
+npm install --save-dev nodemon
+
+main= entry point
+to run application = npx nodemon
